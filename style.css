@@ -1,3 +1,9 @@
+:root{
+    --cor-e-fundo: #0000ff;
+    --cor: #ffffff;
+}
+
 body{
-    background-color: aqua;
+    background-color: var(--cor-e-fundo);
+    color: var(--cor);
 }
