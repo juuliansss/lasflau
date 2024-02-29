@@ -11,6 +11,6 @@ body{
 header{
     display: flex;
 }
-logo{
+.logo{
     width: 20%;
 }
