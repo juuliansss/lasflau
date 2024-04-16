@@ -1,7 +1,7 @@
 /* linguagem de texto */
 :root{
-    --cor-e-fundo: #0000ff;
-    --cor-de-texto: #ffffff;
+    --cor-e-fundo: #ffffff;
+    --cor-de-texto: #000000;
 }
 
 body{
@@ -11,6 +11,8 @@ body{
 header{justify-content: space-around;
     align-items: center;
     display: flex;
+    background-color: yellowgreen;
+    color: #ffffff;
 }
 .logo{
     width: 10%;
