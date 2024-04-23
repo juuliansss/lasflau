@@ -31,8 +31,9 @@ header{justify-content: space-around;
     #equipe{
         display: grid;
         grid-template-columns: 33% 33% 33%;
+        text-align: center;
     }
 
     .foto-equipe{
-        width: 21%;
+        width: 39%;
     }
