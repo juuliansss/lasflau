@@ -32,6 +32,7 @@ header{justify-content: space-around;
         display: grid;
         grid-template-columns: 33% 33% 33%;
         text-align: center;
+        padding: 50px 0;
     }
 
     .foto-equipe{
