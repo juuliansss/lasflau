@@ -27,3 +27,8 @@ header{justify-content: space-around;
         height: 500px;
     background-size: 100% 100%;
     }
+
+    #equipe{
+        display: grid;
+        grid-template-columns: 33% 33% 33%;
+    }
