@@ -3,7 +3,9 @@
     --cor-e-fundo: #ffffff;
     --cor-de-texto: #000000;
 }
-
+img{
+    width: 47%;
+}
 body{
     background-color: var(--cor-e-fundo);
     color:var(--cor-de-texto);
