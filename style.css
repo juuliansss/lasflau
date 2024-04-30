@@ -1,52 +1,58 @@
 /* linguagem de texto */
-:root{
+:root {
     --cor-e-fundo: #ffffff;
     --cor-de-texto: #000000;
 }
-img{
+
+img {
     width: 47%;
 }
-body{
+
+body {
     background-color: var(--cor-e-fundo);
-    color:var(--cor-de-texto);
+    color: var(--cor-de-texto);
 }
-header{justify-content: space-around;
+
+header {
+    justify-content: space-around;
     align-items: center;
     display: flex;
     background-color: yellowgreen;
     color: #ffffff;
 }
-.logo{
+
+.logo {
     width: 10%;
 }
-    .bola-dourada{
-     font-size: 27px;
-        text-align: center;
-    }
 
-    .campo-de-futebor{
-        background-image: url(0.png);
-        height: 500px;
+.bola-dourada {
+    font-size: 27px;
+    text-align: center;
+}
+
+.campo-de-futebor {
+    background-image: url(0.png);
+    height: 800px;
     background-size: 100% 100%;
     display: grid;
     grid-template-columns: 25% 50% 25%;
     text-align: center;
-    }
+}
 
-    #equipe{
-        display: grid;
-        grid-template-columns: 33% 33% 33%;
-        text-align: center;
-        padding: 50px 0;
-    }
+#equipe {
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    text-align: center;
+    padding: 50px 0;
+}
 
-    .foto-equipe{
-        width: 39%;
-    }
+.foto-equipe {
+    width: 39%;
+}
 
-    .linha-1{
-        display: grid;
+.linha-1 {
+    display: grid;
     grid-template-columns: 33% 33% 33%;
     /* text-align: center; */
     justify-items: center;
-    }
+}
