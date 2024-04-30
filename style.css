@@ -35,7 +35,7 @@ header {
     height: 800px;
     background-size: 100% 100%;
     display: grid;
-    grid-template-columns: 25% 50% 25%;
+    grid-template-columns: 24% 50% 25%;
     text-align: center;
 }
 
@@ -52,7 +52,8 @@ header {
 
 .linha-1 {
     display: grid;
-    grid-template-columns: 33% 33% 33%;
+    
+    grid-template-columns: 35% 35% 36%;
     /* text-align: center; */
     justify-items: center;
 }
