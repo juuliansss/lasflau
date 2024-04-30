@@ -40,3 +40,10 @@ header{justify-content: space-around;
     .foto-equipe{
         width: 39%;
     }
+
+    .linha-1{
+        display: grid;
+    grid-template-columns: 33% 33% 33%;
+    /* text-align: center; */
+    justify-items: center;
+    }
